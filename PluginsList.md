@@ -16,8 +16,8 @@
     http://www.bootcss.com/p/underscore/  中文版  
 
 *   图标样式库  
-1.  font-awesome  
-    提供Web设计常用的矢量图标多达628个，可以通过CSS控制其大小、颜色、阴影等所有可以通过CSS控制的样式。无需js控制，对桌面、视网膜屏、其他框架库友好。
+1.  font-awesome    
+    提供Web设计常用的矢量图标多达628个，可以通过CSS控制其大小、颜色、阴影等所有可以通过CSS控制的样式。无需js控制，对桌面、视网膜屏、其他框架库友好。  
     http://fontawesome.io/  
 
     
